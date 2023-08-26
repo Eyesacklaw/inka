@@ -2,7 +2,7 @@
 
 ## Description:
 
-The unofficial complement to the flashcards app "Anki", Inka works by having set questions where variables (such as the numbers, and words chosen from a set) in the question can be varied, and can generate worksheets for practising. Worksheets generated can be question specific (for example, 10 different "question 5s"), or weighted-random (i.e. If one question does not get generated this round, it will increase its chance of being generated next round). It can also be used to create "decks" of questions.
+The unofficial complement to the flashcards app "Anki", Inka works by having set questions where variables (such as the numbers, and words chosen from a set) in the question can be varied, and can generate worksheets for practising. Worksheets generated can be question-specific (for example, 10 different "question 5s"), or weighted-random (i.e. If one question does not get generated this round, it will increase its chance of being generated next round). It can also be used to create "decks" of questions.
 
 Project Structure:
 - main.py
